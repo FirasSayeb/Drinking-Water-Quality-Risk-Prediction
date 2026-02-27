@@ -7,18 +7,15 @@ This project is a web application that predicts whether water is safe to drink b
 ## Project Structure
 
 
+```text
 water_quality_prediction/
 │
 ├── templates/
-│ └── index.html # Frontend form for user input
-│
-├── water_potability.csv # Dataset containing water quality parameters and labels
-│
-├── main.py # Flask app with TensorFlow model
-│
-├── demo.mp4 # Demo video showing the app in action
-│
-└── README.md # This file
+│   └── index.html          # Frontend form for user input
+├── water_potability.csv    # Dataset containing water quality parameters and labels
+├── main.py                 # Flask app with TensorFlow model
+├── demo.mp4                # Demo video showing the app in action
+└── README.md               # This file
 
 
 ---
