@@ -30,8 +30,7 @@ water_quality_prediction/
   - Turbidity  
   - Chloramines  
   - Conductivity  
-  - Organic Carbon  
-- Displays **prediction probability** for better understanding  
+  - Organic Carbon   
 - Handles **missing inputs** by using column averages from the dataset  
 - Professional, responsive web UI with **Bootstrap 5**  
 - Model trained with **Dropout** and **class weighting** for improved accuracy  
